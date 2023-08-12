@@ -1,6 +1,4 @@
-use std::{env};
-use std::{thread, time};
-use std::process;
+use std::{env, thread, time, process};
 use url::Url;
 use reqwest;
 
